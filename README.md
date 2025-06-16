@@ -16,23 +16,25 @@ The goal is to bridge academic insights and industry needs by providing **action
 ## 📚 What’s Inside
 
 - **Guidelines:** Best practices for energy-efficient design, coding and deployment.  
-- **Tools to use:** Industry embraced tools to start using.  
-- **Community Wiki:** A collaborative space to share insights, case studies, and improvements.  
-
+- **Tools to use:** Industry embraced tools to start using.
+  
 ---
 
 ## 🔧 Getting Started
 
-1. Review the guidelines derived from industry embraced practices.  
-2. Try out the tools listed.  
-3. Contribute new tools or documentation.  
-4. Join the discussion to share challenges and success stories.
+1. Review the guidelines derived from industry embraced practices.
+   - [Frontend](guidelines/frontend.md)
+   - [Backend](guidelines/backend.md)
+   - [Deployment](guidelines/frontend.md)
+   - [Cloud](guidelines/backend.md)
+
+3. Try out the tools from [here](./tools.md).  
 
 ---
 
 ## 🤝 Contribute
 
-Contributions of tools, documentation, or case studies are welcome to make green coding adoption easier and more widespread.
+Contributions of tools, practices, or guidelines are welcome to make green coding adoption easier and more widespread.
 
 ---
 
