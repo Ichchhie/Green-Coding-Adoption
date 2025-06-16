@@ -15,7 +15,6 @@ The goal is to bridge academic insights and industry needs by providing **action
 
 ## 📚 What’s Inside
 
-- **Adoption Roadmaps:** Clear, step-by-step plans to embed green coding practices in your development lifecycle.  
 - **Guidelines:** Best practices for energy-efficient design, coding and deployment.  
 - **Tools to use:** Industry embraced tools to start using.  
 - **Community Wiki:** A collaborative space to share insights, case studies, and improvements.  
@@ -24,7 +23,7 @@ The goal is to bridge academic insights and industry needs by providing **action
 
 ## 🔧 Getting Started
 
-1. Review the roadmap and guidelines.  
+1. Review the guidelines derived from industry embraced practices.  
 2. Try out the tools listed.  
 3. Contribute new tools or documentation.  
 4. Join the discussion to share challenges and success stories.
