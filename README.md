@@ -1,4 +1,4 @@
-# Green Coding Adoption Playbook
+# Green Coding Adoption Guidelines
 
 > *Translating research into practice: Tools and guidance on green coding for sustainable software development across regions.*
 
