@@ -38,12 +38,12 @@ The goal is to bridge academic insights and industry needs by providing **action
 ## 🔧 Getting Started
 
 1. Review example practices by domain:  
-   - [Frontend](guidelines/frontend.md)  
-   - [Backend](guidelines/backend.md)  
-   - [Deployment](guidelines/deployment.md)  
-   - [Cloud](guidelines/cloud.md)
+   - [Frontend](guidelines/practices/frontend.md)  
+   - [Backend](guidelines/practices/backend.md)  
+   - [Deployment](guidelines/practices/deployment.md)  
+   - [Cloud](guidelines/practices/cloud.md)
 
-2. Explore recommended [tools](tools.md).
+2. Explore recommended [tools](guidelines/tools.md).
 
 ---
 
