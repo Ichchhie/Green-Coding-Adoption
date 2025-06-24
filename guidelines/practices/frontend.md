@@ -1,4 +1,4 @@
-# Frontend specific guidelines
+# Frontend specific suggestions
 
 1. **Shorter User journeys:** Make the user journey as short as possible. For instance, you go to the site, you search for something, and you find what you're looking for. Instead of asking users to go through like 10 pages, because then when we can reduce the number of pages.
 2. **Minimising contents:** Minimize the content that is downloaded, optimize CSS, and compress everything you can for instance the photos or videos or whatever you're displaying.
@@ -6,4 +6,11 @@
 4. **Follow Accessibility Guidelines:** Follow the guidelines from [here](https://www.w3.org/WAI/standards-guidelines/wcag/). The WCAG documents explain how to make web content more accessible to people with disabilities. 
 5. **Less is more:** Eliminate unnecessary elements of of the web service like animations if not needed.
 6. **Dark theme:** Dark themes can reduce energy consumption, especially on OLED and AMOLED screens where black pixels are essentially turned off, saving power.
+7. **Reduce network load:**
+   - Don't make useless network calls.
+   - Check if API calls are being duplicated.
+   - Optimize the payload, Fetch only what is necessary.
+   - Implement Batch Processing:
+     > Example: We implemented a chunking pattern where data is processed in groups of 100 items. This reduced the need for constant back-and-forth communication, and helped cut unnecessary network traffic.
+   
 
