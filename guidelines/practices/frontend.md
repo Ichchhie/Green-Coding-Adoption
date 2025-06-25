@@ -9,7 +9,8 @@
 7. **Reduce network load:**
    - Don't make useless network calls.
    - Check if API calls are being duplicated.
-   - Optimize the payload, Fetch only what is necessary.
+   - Optimize the payload, fetch only what is necessary.
+   - Minimize unnecessary API calls, cache repeated computations (e.g., memoization).
    - Implement Batch Processing:
      > Example: We implemented a chunking pattern where data is processed in groups of 100 items. This reduced the need for constant back-and-forth communication, and helped cut unnecessary network traffic.
    
