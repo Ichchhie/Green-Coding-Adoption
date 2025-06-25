@@ -2,7 +2,7 @@
 
 1. Algorithm specific:
    - Choose Efficient Algorithms for Computation
-　　  
+　　  - Evaluate algorithms carefully: Choose algorithms that are best suited for the task from both performance and sustainability standpoints.
      - Use Memory-Efficient String Operations
        - Example: Instead of using string concatenation with + in loops or large-scale operations, use StringBuilder or StringBuffer (in Java or similar constructs in other languages) to reduce memory allocation overhead.
      - Extract Constants Outside Functions to Reduce Memory Usage
@@ -24,6 +24,7 @@
     – Perform regular peer code reviews focused on quality, security, and optimization to ensure efficient and secure code.
 7. Error handling: 
     – Implement error checks as early as possible to avoid unnecessary processing and reduce resource waste.
+    
 
 
 
