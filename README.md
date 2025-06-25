@@ -16,12 +16,13 @@ The goal is to bridge academic insights and industry needs by providing **action
 ## 📚 Key Guidelines Summary
 
 ### 1. Foundational Design Decisions
-- Prefer energy-efficient languages like Rust and Go.  
-- Adopt architecture patterns (e.g., microservices) that optimize resource usage.
+- Design for Minimalism and Efficiency: Always aim to do the minimal amount of processing necessary, fetching only required data and optimizing network load. 
+- Adopt architecture patterns (e.g., microservices) that optimize resource usage when possible.
 
 ### 2. Coding Best Practices
 - Avoid unnecessary computations and data processing.  
 - Use lazy loading and caching to minimize resource use.
+- Use external libraries considerably.
 
 ### 3. Tooling & Automation
 - Automate energy consumption reporting in CI/CD pipelines, enabling developers to monitor and compare the energy usage of current deployments.
