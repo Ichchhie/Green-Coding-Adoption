@@ -1,8 +1,7 @@
 # Code level optimization:
 
 1. Algorithm specific:
-   - Choose Efficient Algorithms for Computation
-　　  - Evaluate algorithms carefully: Choose algorithms that are best suited for the task from both performance and sustainability standpoints.
+     - Evaluate algorithms carefully: Choose algorithms that are best suited for the task from both performance and sustainability standpoints.
      - Use Memory-Efficient String Operations
        - Example: Instead of using string concatenation with + in loops or large-scale operations, use StringBuilder or StringBuffer (in Java or similar constructs in other languages) to reduce memory allocation overhead.
      - Extract Constants Outside Functions to Reduce Memory Usage
@@ -20,10 +19,8 @@
       - Break code into small, reusable, and focused functions that do one thing well.
 5. Code refactoring:
     - Refactor Inefficient Code Structures: Continuously revisit and improve existing code, including algorithms, data structures, and general structure, to enhance performance and maintain readability.
-6. Code Reviews: 
-    – Perform regular peer code reviews focused on quality, security, and optimization to ensure efficient and secure code.
-7. Error handling: 
-    – Implement error checks as early as possible to avoid unnecessary processing and reduce resource waste.
+6. Code Reviews: Perform regular peer code reviews focused on quality, security, and optimization to ensure efficient and secure code.
+8. Error handling: Implement error checks as early as possible to avoid unnecessary processing and reduce resource waste.
     
 
 
